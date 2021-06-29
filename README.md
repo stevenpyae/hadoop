@@ -1,7 +1,7 @@
 # Hadoop Basics
 This is an broad introduction to the Hadoop understanding
 
-Hadoop Cheat Sheet: https://online.visual-paradigm.com/community/share/hadoop-lnvhcuy5z
+Hadoop Cheat Sheet: 
 
 Platform used: Hortonworks Data Platform
 Topics Covered:
