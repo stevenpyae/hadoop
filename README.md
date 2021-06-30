@@ -9,5 +9,5 @@ Topics Covered:
   * Hadoop with Pig
   * Hadoop with Spark
 
-##**Hadoop Ecosystem**
+## **Hadoop Ecosystem**
 ![Hadoop Ecosystem](Hadoop%20Ecosystem.JPG)
