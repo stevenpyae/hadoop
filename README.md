@@ -2,7 +2,7 @@
 This is an broad introduction to the Hadoop understanding.
 Udemy Course Title:The Ultimate Hands-on Hadoop: Tame your Big Data!
 
-Hadoop Cheat Sheet: 
+## **Hadoop CheatSheet Buildter**
 
 Platform used: Hortonworks Data Platform
 Topics Covered:
