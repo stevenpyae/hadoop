@@ -11,3 +11,12 @@ Topics Covered:
 
 ## **Hadoop Ecosystem**
 ![Hadoop Ecosystem](Hadoop%20Ecosystem.JPG)
+
+## **Querying Data**
+![]()
+
+## **Managing Cluster**
+
+## **Data Sources into Cluster**
+
+## **Analysing Data**
