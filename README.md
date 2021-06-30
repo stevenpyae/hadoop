@@ -10,13 +10,13 @@ Topics Covered:
 ![Hadoop Ecosystem](12.%20Images/Hadoop%20Ecosystem.JPG)
 
 ## **Querying Data**
-![](12.%20Images/Querying%20Data)
+![Querying Data](12.%20Images/Querying%20Data.JPG)
 
 ## **Managing Cluster**
-![](12.%20Images/Cluster%20Managers)
+![Cluster Managers](12.%20Images/Cluster%20Managers.JPG)
 
 ## **Data Sources into Cluster**
-![](12.%20Images/Data%20Feeding)
+![Data Feeding](12.%20Images/Data%20Feeding.JPG)
 
 ## **Analysing Data**
-![](12.%20Images/Data%20Analysis)
+![Data Analysis](12.%20Images/Data%20Analysis.JPG)
